@@ -1,0 +1,6 @@
+node_modules
+Pipfile
+Pipfile.lock
+
+migrations
+
