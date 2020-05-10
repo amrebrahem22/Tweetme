@@ -3,4 +3,5 @@ Pipfile
 Pipfile.lock
 
 migrations
+__pychashe__
 
