@@ -5,7 +5,7 @@ from .views import (
     TweetCreateAPIView,
     TweetUpdateAPIView,
     TweetDeleteAPIView,
-    tweet_action
+    tweet_action,
 )
 
 urlpatterns = [
